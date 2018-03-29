@@ -34,7 +34,7 @@ These lists are composed of projects that publicly announced their interest in u
 * [SharkRelay](https://app.sharkrelay.com/)
 * [The 0cean](https://the0cean.com)
 * [Token Jar](https://tokenjar.io/)
-
+* [STAR BIT](https://starbitdex.com)
 ### List of 0x trade explorers
 
 * [0x Remote Hr](http://0x.remote.hr)
